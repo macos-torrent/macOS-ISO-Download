@@ -3,17 +3,21 @@
 
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Sonoma</h1>
-<a id="user-content-macos-sonoma" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-sonoma" aria-label="Permalink: macOS Sonoma"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Sonoma%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Sonoma%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/f5edb86e450397319551e613b5078deff93c856ad611d6860645b9040a2faef6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d536f6e6f6d6125323031342e3425323028323345323134292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Sonoma%2014.4%20(23E214)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
- 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
+ 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the <a href="https://apps.apple.com/us/app/macos-sonoma/id6450717509?mt=12">USB</a> into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
 </ul>
 </li>
  	<li>16GB or higher USB required.</li>
@@ -27,18 +31,22 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Ventura</h1>
-<a id="user-content-macos-ventura" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-ventura" aria-label="Permalink: macOS Ventura"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Ventura%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Ventura%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" width="50" /></a> <a href="https://techolay.net/sosyal/konu/macos-ventura-13-6-4-intel-amd-kurulum-imaji.8867/" rel="nofollow"><img src="https://camo.githubusercontent.com/b84e3af8b9aa16942adc0f1d050a8979901ce14ecfbff7b48fee78cccf072c25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d56656e7475726125323031332e362e3425323028323247353133292d6f72616e6765" width="400" data-canonical-src="https://img.shields.io/badge/Download-Ventura%2013.6.4%20(22G513)-orange" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/896be04b782802295b11bb6cb7e5ca10f4f37af07ab4ceea5ce8b59ece289a27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d56656e7475726125323031332e362e3425323028323247353133292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Ventura%2013.6.4%20(22G513)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-1" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-1" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
- 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
+ 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the <a href="https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12">USB</a> into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
 </ul>
 </li>
  	<li>16GB or higher USB required.</li>
@@ -52,21 +60,25 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Monterey</h1>
-<a id="user-content-macos-monterey" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-monterey" aria-label="Permalink: macOS Monterey"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Monterey%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Monterey%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe6d95b813f3558df57d421e6907f8218a66c9858e8e21dffae2970fe19d97e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4d6f6e746572657925323031322e372e332532302832314831303135292d626c756576696f6c6574" width="400" data-canonical-src="https://img.shields.io/badge/Download-Monterey%2012.7.3%20(21H1015)-blueviolet" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8b78ecd6162c9418dcb500a6eb2311f2fbdc30c62a93b7b08c2a730f771b4a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4d6f6e746572657925323031322e372e332532302832314831303135292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Monterey%2012.7.3%20(21H1015)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-2" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-2" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
  	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
 </ul>
 </li>
- 	<li>16GB or higher USB required.</li>
+ 	<li>16GB or higher <a href="https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12">USB</a> required.</li>
  	<li>Compatible for laptop installation.</li>
  	<li>Compatible for desktop installation.</li>
  	<li>Compatible with UEFI and Legacy systems.</li>
@@ -77,21 +89,25 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Big Sur</h1>
-<a id="user-content-macos-big-sur" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-big-sur" aria-label="Permalink: macOS Big Sur"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Big%20Sur%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Big%20Sur%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/techolay.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/7ecc70b818128948fc623ac7276c68ea9fcc1682f404ee517d1912a100d4f10b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d42696725323053757225323031312e372e31302532302832304731343237292d626c7565" width="400" data-canonical-src="https://img.shields.io/badge/Download-Big%20Sur%2011.7.10%20(20G1427)-blue" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/29fdb556d56c8a2174c5090d80cc47cfbd74757cb3c9edc3e6e9142e05006cff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d42696725323053757225323031312e372e31302532302832304731343237292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Big%20Sur%2011.7.10%20(20G1427)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-3" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-3" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
  	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
 </ul>
 </li>
- 	<li>16GB or higher USB required.</li>
+ 	<li>16GB or higher <a href="https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12">USB</a> required.</li>
  	<li>Compatible for laptop installation.</li>
  	<li>Compatible for desktop installation.</li>
  	<li>Compatible with UEFI and Legacy systems.</li>
@@ -102,18 +118,22 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Catalina</h1>
-<a id="user-content-macos-catalina" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-catalina" aria-label="Permalink: macOS Catalina"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Catalina%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Catalina%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://drive.google.com/u/0/uc?id=1su1aht3HdKle8KhFdh8Hgis8iVdCS0Av&amp;export=download" rel="nofollow"><img src="https://camo.githubusercontent.com/b7e6c5bf65cc9ecde8019946c9e65c397f7ede056cd94aaee02b114617889b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d436174616c696e6125323031302e31352e37253230283139483135292d726564" width="400" data-canonical-src="https://img.shields.io/badge/Download-Catalina%2010.15.7%20(19H15)-red" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/f0ade238894a62a409796f7ffb6c4602807f6a593747910bedd0f202df2c60dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d436174616c696e6125323031302e31352e37253230283139483135292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Catalina%2010.15.7%20(19H15)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-4" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-4" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
- 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
+ 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the <a href="https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12">USB</a> into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.</li>
 </ul>
 </li>
  	<li>16GB or higher USB required.</li>
@@ -127,18 +147,22 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Mojave</h1>
-<a id="user-content-macos-mojave" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-mojave" aria-label="Permalink: macOS Mojave"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Mojave%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20Mojave%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/46bf1546ff5009603d82fabcb7ec13ddb6a930a09698285b60e12004bff4cab6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4d6f6a61766525323031302e31342e3625323028313847313033292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Mojave%2010.14.6%20(18G103)-yellow" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/46bf1546ff5009603d82fabcb7ec13ddb6a930a09698285b60e12004bff4cab6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4d6f6a61766525323031302e31342e3625323028313847313033292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Mojave%2010.14.6%20(18G103)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-5" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-5" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
- 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.- 8GB or higher USB required.</li>
+ 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the <a href="https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12">USB</a> into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.- 8GB or higher USB required.</li>
 </ul>
 </li>
  	<li>Compatible for laptop installation.</li>
@@ -151,18 +175,22 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS High Sierra</h1>
-<a id="user-content-macos-high-sierra" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-high-sierra" aria-label="Permalink: macOS High Sierra"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20High%20Sierra%20%C4%B0maj.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/macOS%20High%20Sierra%20%C4%B0maj.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/5a7f05a4f6c03a45e3a48dc859d44fc45c70595d5c6cf8ee44cd158e75c7e597/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4869676825323053696572726125323031302e31332e36253230283137473636292d6f72616e6765" width="400" data-canonical-src="https://img.shields.io/badge/Download-High%20Sierra%2010.13.6%20(17G66)-orange" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/e31cab83c8156db13e4b6465573af9c3ccb3fa4f6f8202c7d7c9f717ba7f440f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4869676825323053696572726125323031302e31332e36253230283137473636292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-High%20Sierra%2010.13.6%20(17G66)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-6" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-6" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
- 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.- 8GB or higher USB required.</li>
+ 	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the <a href="https://apps.apple.com/us/app/macos-high-sierra/id1246284741?mt=12">USB</a> into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.- 8GB or higher USB required.</li>
 </ul>
 </li>
  	<li>Compatible for laptop installation.</li>
@@ -175,14 +203,18 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Sierra</h1>
-<a id="user-content-macos-sierra" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-sierra" aria-label="Permalink: macOS Sierra"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20Sierra.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20Sierra.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/29545bd95720a40942cf753cd15edef490c41bfe4919a7e38894aa2a10e1ded2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d53696572726125323031302e31322e36253230283136473239292d79656c6c6f77677265656e" width="400" data-canonical-src="https://img.shields.io/badge/Download-Sierra%2010.12.6%20(16G29)-yellowgreen" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/YandexDisk.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8538b486cdcea7365582da77739178fd85c7d53cb26ed17a7fbdfc8006b1d4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d53696572726125323031302e31322e36253230283136473239292d79656c6c6f77" width="400" data-canonical-src="https://img.shields.io/badge/Download-Sierra%2010.12.6%20(16G29)-yellow" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-7" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-7" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
@@ -190,7 +222,7 @@
 </ul>
 </li>
  	<li>Compatible for laptop installation.</li>
- 	<li>Compatible for desktop installation.</li>
+ 	<li>Compatible for desktop <a href="https://apps.apple.com/us/app/macos-sierra/id1127487414?mt=12">installation</a>.</li>
  	<li>Compatible with UEFI and Legacy systems.</li>
  	<li>You can install OSX next to your Windows installed disk.</li>
  	<li>It has SSE support.</li>
@@ -199,20 +231,24 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS El Capitan</h1>
-<a id="user-content-macos-el-capitan" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-el-capitan" aria-label="Permalink: macOS El Capitan"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20El%20Capitan.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20El%20Capitan.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/c4d5299ba6e2facee0503d0e106a79062c467bc5b73e1d5f26c00c1926fb84d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d456c2532304361706974616e25323031302e31312e36253230283135473331292d726564" width="400" data-canonical-src="https://img.shields.io/badge/Download-El%20Capitan%2010.11.6%20(15G31)-red" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-8" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-8" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
  	<li>If you want to install it on a Mac computer, after writing the image to USB with balenaEtcher insert the USB into your Mac device and open the "Install macOS XXX" after entering the boot selector menu with the options key.- 8GB or higher USB required.</li>
 </ul>
 </li>
- 	<li>Compatible for laptop installation.</li>
+ 	<li>Compatible for laptop <a href="https://apps.apple.com/us/app/os-x-el-capitan/id1147835434?mt=12">installation</a>.</li>
  	<li>Compatible for desktop installation.</li>
  	<li>Compatible with UEFI and Legacy systems.</li>
  	<li>You can install OSX next to your Windows installed disk.</li>
@@ -222,13 +258,17 @@
 </ul>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">macOS Yosemite</h1>
-<a id="user-content-macos-yosemite" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-yosemite" aria-label="Permalink: macOS Yosemite"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20Yosemite.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/macOS/macOS%20Yosemite.png" width="700" /></a></p>
 <p dir="auto" align="center"><a href="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/yusufklncc/Hackintosh-for-All-Computers/main/Resources/Google%20Drive%20Icon.png" width="50" /></a> <a href="https://macossetup.com/setup-for-mac/" rel="nofollow"><img src="https://camo.githubusercontent.com/491ca606a417229e90f80007fe8a1e32103d39c452a9fe4d77869a43dafb3c15/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d596f73656d69746525323031302e31302e35253230283134463237292d6c6967687467726579" width="400" data-canonical-src="https://img.shields.io/badge/Download-Yosemite%2010.10.5%20(14F27)-lightgrey" /></a></p>
 
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Features</h3>
-<a id="user-content-features-9" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#features-9" aria-label="Permalink: Features"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>It can be installed on original Mac devices.
 <ul dir="auto">
@@ -236,7 +276,7 @@
 </ul>
 </li>
  	<li>Compatible for laptop installation.</li>
- 	<li>Compatible for desktop installation.</li>
+ 	<li>Compatible for desktop <a href="https://support.apple.com/en-us/106407">installation</a>.</li>
  	<li>Compatible with UEFI and Legacy systems.</li>
  	<li>You can install OSX next to your Windows installed disk.</li>
  	<li>It has SSE support.</li>
@@ -246,7 +286,9 @@
 <div class="markdown-heading" dir="auto"></div>
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Find Hardware Information</h3>
-<a id="user-content-find-hardware-information" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#find-hardware-information" aria-label="Permalink: Find Hardware Information"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>Download and install <a href="https://www.aida64.com/downloads" rel="nofollow">AIDA64 Extreme</a>.</li>
  	<li>Open <code>AIDA64 Extreme</code> and double click <code>Summary</code></li>
@@ -287,7 +329,9 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Check Compability</h3>
-<a id="user-content-check-compability" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#check-compability" aria-label="Permalink: Check Compability"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li><a href="https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/" rel="nofollow">Anti-Hackintosh Buyers</a></li>
 </ul>
@@ -312,27 +356,31 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Download macOS Image</h3>
-<a id="user-content-download-macos-image" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#download-macos-image" aria-label="Permalink: Download macOS Image"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>Go
 <ul dir="auto">
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-sonoma">Sonoma</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-ventura">Ventura</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-monterey">Monterey</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-big-sur">Big Sur</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-catalina">Catalina</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-mojave">Mojave</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-high-sierra">High Sierra</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-sierra">Sierra</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-el-capitan">El Capitan</a></li>
- 	<li><a href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-yosemite">Yosemite</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Sonoma</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Ventura</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Monterey</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Big Sur</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Catalina</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Mojave</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">High Sierra</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Sierra</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">El Capitan</a></li>
+ 	<li><a href="https://macossetup.com/setup-for-mac/">Yosemite</a></li>
 </ul>
 </li>
 </ul>
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Write macOS Image</h3>
-<a id="user-content-write-macos-image" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#write-macos-image" aria-label="Permalink: Write macOS Image"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>Extract RAW file from ZIP to the desktop.</li>
  	<li>Download <a href="https://www.balena.io/etcher/" rel="nofollow">balenaEtcher</a>.</li>
@@ -349,7 +397,9 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Set the EFI Folder</h3>
-<a id="user-content-set-the-efi-folder" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#set-the-efi-folder" aria-label="Permalink: Set the EFI Folder"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>When you plug-in USB back, you can see EFI partition in "My Computer"</li>
  	<li>Open EFI partition.</li>
@@ -370,14 +420,18 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Adjust BIOS Settings</h3>
-<a id="user-content-adjust-bios-settings" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#adjust-bios-settings" aria-label="Permalink: Adjust BIOS Settings"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto">Note: Most of these options may not be present in your firmware, we recommend that you match them as closely as possible, but don't worry if many of these options are not present in your BIOS.</p>
 
 <ul dir="auto">
  	<li>
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Intel</h3>
-<a id="user-content-intel" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#intel" aria-label="Permalink: Intel"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>Before you start, reset your BIOS settings to default.</li>
  	<li><code>Disable</code>
@@ -410,7 +464,9 @@
  	<li>
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">AMD Ryzen</h3>
-<a id="user-content-amd-ryzen" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#amd-ryzen" aria-label="Permalink: AMD Ryzen"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>
 <p dir="auto">Before you start, reset your BIOS settings to default.</p>
@@ -449,7 +505,9 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Editing EFI</h3>
-<a id="user-content-editing-efi" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#editing-efi" aria-label="Permalink: Editing EFI"></a></div>
+&nbsp;
+
+</div>
 <p dir="auto"><code>NOTE</code>: If you have <code>LEGACY BIOS</code>. Try to boot already without touching the default "boot" file that comes in the EFI partition. If you can't boot, come back and change the name of the "boot" file to "boot-default". Change the name of the "bootx64 or bootx32" file to "boot" according to the architecture of your processor. it does not matter. If you still can't boot, try the "boot6", "boot7" and "boot9" files.</p>
 
 <ul dir="auto">
@@ -514,7 +572,9 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">macOS Installation Steps</h3>
-<a id="user-content-macos-installation-steps" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-installation-steps" aria-label="Permalink: macOS Installation Steps"></a></div>
+&nbsp;
+
+</div>
 <ul dir="auto">
  	<li>Now let's shutdown our computer and boot from USB. Choose the <code>Install macOS "Sonoma"</code> option and go to the installation screen.
 <ul dir="auto">
@@ -787,7 +847,9 @@
 &nbsp;
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto" tabindex="-1">Post Installation</h3>
-<a id="user-content-post-installation" class="anchor" href="https://github.com/yusufklncc/Hackintosh-for-All-Computers#post-installation" aria-label="Permalink: Post Installation"></a></div>
+&nbsp;
+
+</div>
 &nbsp;
 <ul dir="auto">
  	<li>Open config file with <code>Text Edit</code>.
